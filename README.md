@@ -67,10 +67,11 @@ a cópia de trabalho de todo desenvolvedor do código também é um repositório
 histórico completo de todas as alterações.
 
 ## GITHUB
+O Github e um repositorio remoto, criado como um servico online de hospedagem 
+de repositorios do GIT. 
+Funciona como um servidor que agrega todas as modificacoes realizadas por cada uma das
+pessoas envolvidas em um projeto, unficando as diferentes versoes de codigo e seus historicos,
+permitindo compartilhamento entre as equipes
 
-O Github é um repositório remoto, criado como um serviço online de hospedagem
-de repositórios do Git. Funciona como um servidor que agrega todas as modificações realizadas por cada uma das
-pessoas envolvidas em um projeto, unificando as diferentes versões de código e seus históricos,
-permitindo compartilhamento entre as equipes.
 ---------------------------------------------------------------------------------------------------------------
 ## Creditos
