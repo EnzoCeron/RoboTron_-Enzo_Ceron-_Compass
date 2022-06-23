@@ -12,7 +12,7 @@ Challenge Sprint 4 - Programa de Bolsas Compass
 
 * Manipulação de dados com PYTHON
 
-------------------------------------------------------
+
 Por meio desse repositorio vamos realizar nossa challenge 
 que consiste em, aprender a lidar da maneira correta com a ferramenta
 GIT e com a plataforma do GITHUB, alem da resolucao de exercicios 
@@ -69,9 +69,8 @@ histórico completo de todas as alterações.
 ## GITHUB
 
 O Github é um repositório remoto, criado como um serviço online de hospedagem
-de repositórios do Git.
-
-Funciona como um servidor que agrega todas as modificações realizadas por cada uma das
+de repositórios do Git. Funciona como um servidor que agrega todas as modificações realizadas por cada uma das
 pessoas envolvidas em um projeto, unificando as diferentes versões de código e seus históricos,
 permitindo compartilhamento entre as equipes.
 ---------------------------------------------------------------------------------------------------------------
+## Creditos
