@@ -1,4 +1,5 @@
-Challenge Sprint 4 - Programa de Bolsas Compass
+## Challenge Sprint 4 - Programa de Bolsas Compass
+![img_8.png](img_8.png)
 ---------------------------------------------------
 * Nesse Challenge vamos desenvolver habilidades de:
 
@@ -55,7 +56,7 @@ nas primeiras linhas de cada programa.
 
 ## GIT e GITHUB
 
-Como  objetivo dessa sprint, tambem tinhamos a apredizagem e familiarizacao 
+Como objetivo dessa sprint, tambem tinhamos a apredizagem e familiarizacao 
 com as ferramentas essenciais para qualquer um na area de trabalho de tcnologia.
 Sendo ela o GIT e o GITHUB.
  
@@ -72,6 +73,33 @@ de repositorios do GIT.
 Funciona como um servidor que agrega todas as modificacoes realizadas por cada uma das
 pessoas envolvidas em um projeto, unficando as diferentes versoes de codigo e seus historicos,
 permitindo compartilhamento entre as equipes
+---------------------------------------------------------------------------------------------------
+## Como baixar o repositorio para a sua maquina
+Para fazer isto basta utilizar a funcionalidade clone do git
+Sempre que você entrar em um repositório, seja o seu ou o de qualquer outra pessoa, 
+terá esse botão Code, que quando você clica aparece um link
+Você irá copiar esse link e levar ele lá pro nosso terminal
+
+O comando para puxar o projeto para a sua máquina é o git clone 'Link'
+
+Não é necessário criar um repositório antes disso, basta abrir o terminal e clonar o projeto e tudo aparecerá!
+
+alem disso para rodar os programas basta ter o python e o pandas instalado em sua maquina
+
 
 ---------------------------------------------------------------------------------------------------------------
-## Creditos
+## Ferramentas utilizadas
+![img_6.png](img_6.png)
+
+ ![img_1.png](img_1.png) ![img_2.png](img_2.png) ![img_3.png](img_3.png) 
+ --------------------------------------------------------------------------------------------
+## Creditos  e agradecimentos 
+Silvioney Backes - https://github.com/neybackes
+
+Anna Paula - https://github.com/annapaulamash
+
+Rafaella Ballerini - https://github.com/rafaballerini
+
+Além de todos os evagelistas que ajudaram no processo, e do material
+disponibilizado pela compass
+
