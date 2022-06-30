@@ -9,7 +9,7 @@ for i in range(0, 15):
 
 # define o tamanho da lista e a percorre ao contrario printando os items
 t = len(lista)
-for i in range(t-1, -1, -1):
+for i in range(t, -1, -1):
     print(lista[i])
 
 
