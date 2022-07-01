@@ -83,9 +83,12 @@ Você irá copiar esse link e levar ele lá pro nosso terminal
 O comando para puxar o projeto para a sua máquina é o git clone 'Link'
 
 Não é necessário criar um repositório antes disso, basta abrir o terminal e clonar o projeto e tudo aparecerá!
+# Programas nescessarios 
+Para rodar os programas basta ter o python e o pandas instalado em sua maquina
 
-alem disso para rodar os programas basta ter o python e o pandas instalado em sua maquina
+link python: https://www.python.org/downloads/
 
+link Pandas: https://pandas.pydata.org/getting_started.html
 # Como Rodar
 
 Abra o menu "Iniciar" Imagem intitulada Windowsstart. Para fazê-lo, clique no logo do Windows localizado no canto inferior esquerdo da tela. Em seguida, um pequeno menu vai aparecer.
