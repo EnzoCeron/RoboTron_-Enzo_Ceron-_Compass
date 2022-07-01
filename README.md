@@ -86,6 +86,27 @@ Não é necessário criar um repositório antes disso, basta abrir o terminal e 
 
 alem disso para rodar os programas basta ter o python e o pandas instalado em sua maquina
 
+# Como Rodar
+
+Abra o menu "Iniciar" Imagem intitulada Windowsstart. Para fazê-lo, clique no logo do Windows localizado no canto inferior esquerdo da tela. Em seguida, um pequeno menu vai aparecer.
+
+Procure o "Prompt de comando". Para fazê-lo, digite cmd.
+
+Clique  no topo do menu "Iniciar". Fazê-lo vai abrir o "Prompt de comando".
+
+Altere o prompt para o diretório do arquivo Python. Para tanto, digite cd, dê um espaço, insira o endereço "Local" do arquivo Python e pressione a tecla ↵ Enter.
+Por exemplo, para abrir um arquivo Python salvo na pasta "Arquivos" na área de trabalho, digite cd área de trabalho/Arquivos.
+Caso tenha copiado o caminho do arquivo, digite cd, dê um espaço e pressione as teclas Ctrl+V.
+
+Execute o comando "python" seguido do nome do arquivo. Digite python file.py onde "file" deve ser substituído pelo nome do arquivo
+Por exemplo, digite python script.py para abrir um arquivo de nome python script.py.
+Caso o arquivo tenha algum espaço no nome, digite-o entre aspas juntamente com a extensão (por exemplo: python "meu script.py").
+
+
+Pressione a tecla ↵ Enter. Fazê-lo vai executar o comando e abrir o arquivo no aplicativo "Python" instalado no computador.
+
+
+
 
 ---------------------------------------------------------------------------------------------------------------
 ## Ferramentas utilizadas
